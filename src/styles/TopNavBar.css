@@ -5,6 +5,8 @@
     align-items: center;
     justify-content: left;
     color: white;
+    box-shadow: -1px 0 5px 0 #1D428A;
+    margin-bottom: 50px;
 }
 
 .App-logo {
